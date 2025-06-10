@@ -5,7 +5,7 @@ Este repositório foi criado para apresentar o escopo e tecnologias utilizadas n
 
 > ⚠️ **Importante**: Por questões éticas e contratuais, o código-fonte do projeto não será disponibilizado neste repositório. Este espaço tem caráter exclusivamente demonstrativo para fins de portfólio profissional.
 
-https://i.imgur.com/lBStJEv.jpeg
+ ![Inovative](https://i.imgur.com/lBStJEv.jpeg)
 
 ## 🔧 Tecnologias Utilizadas
 
